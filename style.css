@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgba(145, 255, 178, 0.938);
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.padding {
+  padding-top: 2rem;
+}
+
+.ncolor {
+  background-color: rgba(25, 255, 205, 0.979);
+}
+.bcolor {
+  background-color: aquamarine;
+}
+
+.footer {
+  font-family: 'Libre Franklin', sans-serif;
+  color: white;
+}
